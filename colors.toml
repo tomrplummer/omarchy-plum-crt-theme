@@ -1,0 +1,38 @@
+mode = "dark"
+
+# Plum CRT follows the screenshot's plum, blush, rose, and lavender range.
+accent = "#d8a3c5"
+selection = "#4a354c"
+muted = "#92728d"
+
+background = "#1d1225"
+dark_background = "#160d1d"
+darker_background = "#0e0812"
+lighter_background = "#35253a"
+
+foreground = "#e7c5dc"
+dark_foreground = "#6e536c"
+light_foreground = "#c29bb8"
+bright_foreground = "#ffe7f5"
+
+red = "#d990b2"
+yellow = "#ddb4c9"
+orange = "#c58ea9"
+green = "#b8a6ce"
+cyan = "#a3afd9"
+blue = "#9290c8"
+magenta = "#c994c0"
+brown = "#61475e"
+
+bright_red = "#f0a7c5"
+bright_yellow = "#f2c8dc"
+bright_green = "#d2c0e2"
+bright_cyan = "#bec9ee"
+bright_blue = "#b2afe2"
+bright_magenta = "#e6adde"
+
+selection_foreground = "#ffe7f5"
+selection_background = "#4a354c"
+
+hyprland_active_border = "#d8a3c5 #9290c8 45deg"
+hyprland_inactive_border = "#4a354c"
